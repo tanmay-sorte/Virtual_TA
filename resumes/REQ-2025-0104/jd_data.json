@@ -1,0 +1,28 @@
+{
+    "Job Title": "Senior AI Engineer",
+    "Required Skills": [
+        "AI/ML model development and deployment in production",
+        "Designing and implementing AI pipelines integrated with IT and data infrastructure",
+        "Python programming",
+        "R programming",
+        "Java programming",
+        "TensorFlow",
+        "PyTorch",
+        "Keras",
+        "Scikit-learn",
+        "AWS SageMaker",
+        "Azure ML",
+        "Cloud platforms: AWS, Azure, GCP (preferred)",
+        "MLOps practices (CI/CD, deployment, monitoring)",
+        "Data structures and algorithms",
+        "Software engineering principles",
+        "Technology evaluation and tool selection for AI/ML frameworks and platforms",
+        "Cross-functional collaboration with data scientists, engineers, and business teams",
+        "Ethical AI and data privacy compliance",
+        "Model lifecycle management (development, testing, deployment, monitoring)",
+        "Translating business requirements into scalable technical solutions",
+        "Ensuring performance, scalability, and maintainability of AI systems"
+    ],
+    "Education": "Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, or a related field",
+    "Experience": "5+ years developing and deploying AI/ML models in production environments; hands-on with TensorFlow, PyTorch, Keras, Scikit-learn, and cloud-based AI services (e.g., AWS SageMaker, Azure ML); exposure to cross-functional collaboration; preferred experience deploying models on AWS/Azure/GCP in hybrid or multi-cloud setups and applying MLOps (CI/CD, monitoring)"
+}

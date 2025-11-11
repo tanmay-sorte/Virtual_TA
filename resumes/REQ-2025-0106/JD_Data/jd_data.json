@@ -1,0 +1,17 @@
+{
+    "Job Title (Optional)": "AI Engineer",
+    "Required Skills (List)": [
+        "Designing, developing, and deploying AI/ML models and pipelines in production",
+        "Strong programming skills in Python, R, or Java",
+        "Hands-on experience with TensorFlow, PyTorch, Keras, and Scikit-learn",
+        "Experience with cloud-based AI services (e.g., AWS SageMaker, Azure ML)",
+        "Solid understanding of data structures and algorithms",
+        "Software engineering principles (performance, scalability, maintainability)",
+        "Model development, testing, deployment, and lifecycle management",
+        "Ethical AI practices and data privacy compliance",
+        "Cross-functional collaboration with data scientists, engineers, and business teams",
+        "Evaluating and recommending AI/ML frameworks, platforms, and tools"
+    ],
+    "Education": "Bachelor's or Master's degree in Computer Science, Artificial Intelligence, Data Science, or a related field.",
+    "Experience": "5+ years of experience developing and deploying AI/ML models in production environments."
+}

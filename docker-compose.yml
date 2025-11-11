@@ -1,0 +1,14 @@
+
+
+services:
+  mongodb:
+    image: mongo:7
+    container_name: virtual_ta_mongo
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+volumes:
+  mongo_data:

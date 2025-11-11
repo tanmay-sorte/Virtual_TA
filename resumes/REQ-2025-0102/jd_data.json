@@ -1,0 +1,30 @@
+{
+    "Job Title": "Data Analyst – Data Analytics & Insights (DA&I) - SAP ECC and CRM",
+    "Required Skills": [
+        "Power BI",
+        "Python",
+        "SAP ECC",
+        "SAP CRM",
+        "Data mining platforms",
+        "Data science methodologies",
+        "Multi-dimensional data design",
+        "Star schema design (facts and dimensions)",
+        "Data modeling",
+        "System engineering fundamentals",
+        "Object-oriented design",
+        "Architecture standards",
+        "Translate business requirements into technical solutions and business cases",
+        "Stakeholder collaboration",
+        "Project coordination and dependency management",
+        "L2/L3 issue resolution",
+        "Data governance",
+        "Metadata management",
+        "Agile and Waterfall SDLC",
+        "Analytical thinking (distilling complex data into insights)",
+        "Change management and data literacy",
+        "Vendor management",
+        "Managing multiple priorities/projects"
+    ],
+    "Education": "Bachelor's degree in Computer Science, Management Information Systems, or a related field",
+    "Experience": "5+ years as a data analyst or in a related field, including experience with SAP ECC and CRM; proficiency with Power BI and Python; experience designing multi-dimensional models (star schemas, facts, dimensions); involvement in L2/L3 issue resolution; exposure to Agile/Waterfall lifecycles and data governance; demonstrated ability to manage multiple projects and stakeholders"
+}

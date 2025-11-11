@@ -1,0 +1,22 @@
+{
+    "Job Title": "Reporting Analyst",
+    "Required Skills": [
+        "Power BI",
+        "Jira",
+        "Jira Align",
+        "Power Automate",
+        "PowerApps",
+        "Python",
+        "APIs and JQL (Jira Query Language)",
+        "Confluence",
+        "Jira Automation",
+        "ServiceNow",
+        "SAFe/Agile tooling and practices",
+        "Data analysis and data integrity management",
+        "Process automation (including AI tools)",
+        "Documentation and training (SOPs)",
+        "Portfolio tracking/metrics and business value realization"
+    ],
+    "Education": "Bachelor's degree in business, technology, or related field",
+    "Experience": "Experience with Jira and Power BI required. Typically requires 2+ years of IT experience. Preferred experience with Power BI, Power Automate, PowerApps, Python, and Jira/Jira Align; supporting Agile (SAFe) processes (including PI Planning); using Confluence and ServiceNow; building automations (Power Platform, Jira Automation, AI tools); and managing data/reporting environments to ensure data accuracy, consistency, and availability across systems."
+}
