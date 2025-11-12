@@ -2,7 +2,7 @@ from fastapi import APIRouter, HTTPException, status
 from pydantic import BaseModel, EmailStr
 from src.db_connection import get_db
 from passlib.context import CryptContext
-from src.models.my_logger import logger
+# from src.models.my_logger import logger
 
 # # --------------------- JWT ------------------ #
 
@@ -77,12 +77,12 @@ def login(request: LoginRequest):
         raise HTTPException(status_code=status.HTTP_401_UNAUTHORIZED, detail="Invalid credentials")
 
 
-    extra_info = {
-        # "exception_type": "LoginSucces",
-        "status_code": 200,
-        "tags": ["login", "startup", "success"]
-    }
-    logger.info("Authentication of User successful!", extra=extra_info)
+    # extra_info = {
+    #     # "exception_type": "LoginSucces",
+    #     "status_code": 200,
+    #     "tags": ["login", "startup", "success"]
+    # }
+    # logger.info("Authentication of User successful!", extra=extra_info)
 
     return {
         "status": "success",

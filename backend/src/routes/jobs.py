@@ -272,7 +272,7 @@ def create_job(job: JobCreate):
     # Create folder
     folder_path = os.path.join(
         r"C:\Users\TSorte\OneDrive - Rockwell Automation, Inc\Desktop\Virtual_TA (TA-AI)\resumes",
-        requirement_id, "JD_Data"
+        requirement_id
     )
     os.makedirs(folder_path, exist_ok=True)
 

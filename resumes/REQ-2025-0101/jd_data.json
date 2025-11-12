@@ -1,15 +1,13 @@
 {
     "Job Title": "Senior Software Engineer",
     "Required Skills": [
-        "End-to-end software development lifecycle (requirements, architectural design, coding, testing)",
-        "Unit testing, debugging, and anomaly correction",
-        "Integration across subsystems and products",
-        "Participation in reviews (documents, designs, code, test cases, user documentation)",
-        "Work estimation, status reporting, and task prioritization",
-        "Agile/SAFe practices, including PI planning and sprint planning (user story breakdown, task estimation)",
-        "Collaboration within large, global project teams",
-        "Enterprise software/system development experience"
+        "Full software development lifecycle: requirements development, architectural design, coding, testing",
+        "Unit testing (develop and execute test plans), debugging, and integration across subsystems",
+        "Participation in reviews: documents, designs, code, test cases, and user documentation",
+        "Effort estimation and status reporting; task prioritization",
+        "Agile/SAFe practices: PI planning, sprint planning, breaking down user stories into tasks",
+        "Effective teamwork and collaboration with large, global project teams"
     ],
     "Education": "Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent",
-    "Experience": "Minimum 5 years in new product design of software or software systems, including large-scale enterprise system projects; plus at least 2 years participating in formal review processes (design reviews, code reviews)"
+    "Experience": "Minimum 5 years in new product design of software or software systems, including large-scale enterprise system development projects; at least 2 years in design/code review processes."
 }

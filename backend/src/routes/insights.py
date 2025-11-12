@@ -3,7 +3,7 @@ from bson import ObjectId
 from typing import Optional
 from src.db_connection import get_db
 from src.llm.insights import run_insights_flow
-from src.models.my_logger import logger
+# from src.models.my_logger import logger
 
 router = APIRouter(prefix="/v1/insights", tags=["insight"])
 
@@ -21,11 +21,11 @@ def get_insights(job_id: str, applicant_id: str):
 
     if job_id == "undefined":
         print("Fail")
-        logger.error("Data Missing", extra={
-            "exception_type": "ValueError",
-            "status_code": 500,
-            "tags": ["runtime", "main"]
-        })
+        # logger.error("Data Missing", extra={
+        #     "exception_type": "ValueError",
+        #     "status_code": 500,
+        #     "tags": ["runtime", "main"]
+        # })
 
     try:
         db = get_db()
@@ -107,10 +107,10 @@ def get_insights(job_id: str, applicant_id: str):
     except Exception as e:
         # Unexpected errors
         
-        logger.error("Data Missing", extra={
-            "exception_type": "ValueError",
-            "status_code": 500,
-            "tags": ["runtime", "main"]
-        })
+        # logger.error("Data Missing", extra={
+        #     "exception_type": "ValueError",
+        #     "status_code": 500,
+        #     "tags": ["runtime", "main"]
+        # })
 
         raise HTTPException(status_code=500, detail=f"Error generating insights: {str(e)}")
